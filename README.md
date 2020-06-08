@@ -1,23 +1,5 @@
-# lesson09
+Seattle Love website for people who love Seattle.
 
-> Nuxt.js project
+This web site will be an access point to free stock photos of Seattle. Photos are pulled in through the unsplash.com API. The API can be found here:https://unsplash.com/developers
 
-## Build Setup
-
-``` bash
-# install dependencies
-$ npm install # Or yarn install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
-
+The goal of this web site is to provide an easy way for users to look up photos of Seattle Food, Hiking, and Attractions, so they can be inspired and plan their next outing. Photos should link out to Unsplash.com and should have user/photographer information.
